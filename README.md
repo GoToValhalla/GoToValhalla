@@ -117,7 +117,7 @@
     </tr>
     <tr>
         <td align="center">
-            <a href="https://www.aeroflot.ru/ru-ru" target="_blank" rel="noopener noreferrer"><img style="width:90px" src="images/aeroflot.jpeg"></a>
+            <a href="https://www.aeroflot.ru/ru-ru" target="_blank" rel="noopener noreferrer"><img style="width:4790px" src="images/aeroflot.jpeg"></a>
         </td>
         <td>
             ПАО Аэрофлот
