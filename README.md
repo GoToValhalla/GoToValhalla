@@ -1,5 +1,4 @@
-<h1 align="center">Hi there, I'm <a target="_blank">Kostua</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h1 align="center">Всем привет! Меня зовут Костя</h1>
 <h3 align="center">QA Manger</h3>
 
 ### Образование
@@ -14,3 +13,6 @@
    </tr>
   </table>
   </br>
+
+
+### Работа
