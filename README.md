@@ -19,7 +19,7 @@
  <table style="width=100%" cellspacing="0" cellpadding="5">
 	<tr>
         <td align="center">
-            <a href="https://www.akado.ru/" target="_blank" rel="noopener noreferrer"><img style="width:90px" src="images/logo-akado.jpg"></a>
+            <a href="https://www.akado.ru/" target="_blank" rel="noopener noreferrer"><img style="width:190px" src="images/logo-akado.jpg"></a>
         </td>
         <td>
             Акадо ("Акадо")
@@ -114,5 +114,31 @@
             опыт администрирования JIRA. Confluence;
             использование для тестирования VMware;
             управление командой из 2 человек</td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="https://www.aeroflot.ru/ru-ru" target="_blank" rel="noopener noreferrer"><img style="width:90px" src="images/aeroflot.jpeg"></a>
+        </td>
+        <td>
+            ПАО Аэрофлот
+         <br><b>Test-Lead.</b>
+        </td>
+        <td>Июнь 2014 - август 2016</td>
+        <td>Оптимизация процессов тестирования корпоративных продуктов.
+            Разработка стратегии тестирования.
+            Оптимизация рисков.
+            Администрирование Jira.
+            Ведение процессов тестирования в jira.
+            Проведение тестирования производительности при помощи HP LoadRunner.
+            Разработка сценариев тестирования производительности.
+            Сбор требований бизнеса.
+            Документирование бизнес-процессов.
+            Составление ТЗ, ФТ, РИ, ПМИ.
+            Общение с разработчиками. 
+            Постановка задач разработчикам.
+            Контроль сроков выполнения задач.
+            Внедрение ПО.
+            Составление отчётов по текущему состоянию проектов.
+            Сбор метрик.</td>
     </tr>
 </table>
