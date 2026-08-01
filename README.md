@@ -2,8 +2,23 @@
 <h3 align="center">Head of QA · QA Director · Delivery Manager</h3>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/QA_Leadership-15%2B_years-2F80ED?style=for-the-badge" alt="15+ years in QA leadership" />
+  <img src="https://img.shields.io/badge/Team_scale-40%2B_people-27AE60?style=for-the-badge" alt="Teams of 40+" />
+  <img src="https://img.shields.io/badge/Focus-AI--driven_QA-9B51E0?style=for-the-badge" alt="AI-driven QA" />
+</p>
+
+<p align="center">
 Руководитель качества с 15+ годами опыта в построении QA-функции, управлении инженерными командами и запуске web-, mobile- и backend-продуктов.
 </p>
+
+<table align="center">
+  <tr>
+    <td align="center"><b>15+ лет</b><br/>в тестировании и качестве</td>
+    <td align="center"><b>40+ специалистов</b><br/>максимальный размер команды</td>
+    <td align="center"><b>4 продукта</b><br/>одновременно в управлении</td>
+    <td align="center"><b>0 → QA-функция</b><br/>неоднократно с нуля</td>
+  </tr>
+</table>
 
 ## Профессиональный профиль
 
@@ -14,6 +29,17 @@
 Отдельное направление — внедрение AI-инструментов в разработку и тестирование: AI-assisted analysis, генерация и ревью тестов, исследование дефектов, работа с документацией, кодом и инженерными процессами.
 
 ## Ключевая экспертиза
+
+<p>
+  <img src="https://img.shields.io/badge/QA_Strategy-1F6FEB?style=flat-square" />
+  <img src="https://img.shields.io/badge/Quality_Gates-1F6FEB?style=flat-square" />
+  <img src="https://img.shields.io/badge/Delivery_Management-1F6FEB?style=flat-square" />
+  <img src="https://img.shields.io/badge/Test_Automation-1F6FEB?style=flat-square" />
+  <img src="https://img.shields.io/badge/Performance_Testing-1F6FEB?style=flat-square" />
+  <img src="https://img.shields.io/badge/CI%2FCD-1F6FEB?style=flat-square" />
+  <img src="https://img.shields.io/badge/AI--assisted_QA-1F6FEB?style=flat-square" />
+  <img src="https://img.shields.io/badge/SDLC_Audit-1F6FEB?style=flat-square" />
+</p>
 
 - Построение QA-процессов и отделов с нуля
 - QA Strategy и Quality Gates
@@ -29,13 +55,14 @@
 
 ## Ключевые результаты
 
-- Несколько раз создавал QA-функцию с нуля
-- Руководил командами до 40+ специалистов
-- Запускал и развивал автоматизацию и нагрузочное тестирование
-- Участвовал в запуске мобильных приложений «Магнит Доставка», «Сборщик» и «Курьер»
-- Выстраивал приемочное тестирование, релизные процессы и взаимодействие с подрядчиками
-- Создавал системы метрик, отчетности, регламентов и контроля качества
-- Развивал QA одновременно на нескольких продуктах и проектах
+| Направление | Результат |
+|---|---|
+| Построение QA | Несколько раз создавал QA-функцию с нуля |
+| Масштаб управления | Руководил командами до 40+ специалистов |
+| Запуск продуктов | Участвовал в запуске приложений «Магнит Доставка», «Сборщик» и «Курьер» |
+| Инженерная зрелость | Развивал автоматизацию, нагрузочное тестирование и CI/CD |
+| Управляемость качества | Создавал системы метрик, отчетности, регламентов и Quality Gates |
+| Мультипродуктовая работа | Развивал QA одновременно на нескольких продуктах и проектах |
 
 ## Опыт руководства
 
@@ -75,29 +102,40 @@
 
 ## AI и инженерные проекты
 
-### City GO
-
-Собственный full-stack проект для работы с геоданными и местами:
-
-- FastAPI, React, PostgreSQL/PostGIS, SQLAlchemy, Alembic, Docker
-- импорт, нормализация, дедупликация и публикация данных
-- административные процессы и контроль качества данных
-- CI/CD, regression testing и production-oriented workflows
-- AI-assisted разработка, аудит и управление инженерными изменениями
-
-### PET
-
-Платформа поиска товаров и сервисов для владельцев животных:
-
-- проектирование канонической модели данных
-- сбор и обогащение данных из внешних источников
-- дедупликация, верификация и модерация
-- архитектура для каталогов, услуг, организаций и территориального покрытия
-- AI-first workflow для анализа, разработки и контроля качества
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">City GO</h3>
+      <p align="center"><b>Full-stack платформа для работы с геоданными и местами</b></p>
+      <ul>
+        <li>FastAPI, React, PostgreSQL/PostGIS</li>
+        <li>Импорт, нормализация и дедупликация данных</li>
+        <li>Административные процессы и публикация</li>
+        <li>CI/CD и regression testing</li>
+        <li>AI-assisted разработка и аудит</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">PET</h3>
+      <p align="center"><b>Платформа поиска товаров и сервисов для владельцев животных</b></p>
+      <ul>
+        <li>Каноническая модель данных</li>
+        <li>Сбор и обогащение внешних данных</li>
+        <li>Дедупликация, верификация и модерация</li>
+        <li>Каталоги, услуги и территориальное покрытие</li>
+        <li>AI-first engineering workflow</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 Эти проекты показывают не только управленческий, но и практический инженерный уровень: архитектура, backend, данные, CI/CD, тестирование и эксплуатационная надежность.
 
 ## Технологический стек
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,php,selenium,fastapi,postgres,docker,githubactions,git,linux,react" alt="Technology stack" />
+</p>
 
 **QA и автоматизация:** Python, PyTest, Requests, Selenium, Selene, Java, JUnit, PHP, SoapUI, JMeter, Gatling, HP LoadRunner, Яндекс.Танк  
 **Engineering:** Git, GitHub Actions, Jenkins, Docker, Linux, REST API, SQL, PostgreSQL, PostGIS, FastAPI  
@@ -114,5 +152,8 @@
 
 ## Контакты
 
-- GitHub: [GoToValhalla](https://github.com/GoToValhalla)
-- Резюме и контакты предоставляются по запросу
+<p align="center">
+  <a href="https://github.com/GoToValhalla"><img src="https://img.shields.io/badge/GitHub-GoToValhalla-181717?style=for-the-badge&logo=github" /></a>
+</p>
+
+Резюме и контакты предоставляются по запросу.
